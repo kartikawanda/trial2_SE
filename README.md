@@ -5,5 +5,6 @@ Framework PHP
 Framework
   * React
   * Vue
-Database
 GUI dipercantik
+Tidak perlu ada database
+karena ini project sederhana saja
