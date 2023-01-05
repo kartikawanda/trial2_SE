@@ -5,3 +5,5 @@ Framework PHP
 Framework
   * React
   * Vue
+Tidak perlu ada database
+karena ini project sederhana saja
